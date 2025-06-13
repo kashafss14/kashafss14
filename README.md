@@ -1,5 +1,12 @@
-A programming whiz who loves diving into coding challenges, actively acquiring skills in web development.You can also find me strategizing on the chessboard ♟️ or leveling up in mobile games 🎮. Let's connect and have a blast! 🛸✨
-<!---
-kashafss14/kashafss14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I’m Kashaf Shahid, a BS Computer Science student currently learning Flutter for cross-platform app development. I'm passionate about building functional and creative mobile apps.
+
+In the future, I plan to explore AI automation in app development — integrating smart features like chatbots, recommendations, and predictive actions into real-world applications.
+
+Interests & Goals
+- 📱 Flutter app development
+- 🤖 AI + automation in mobile apps
+- 🎓 Future MS in Artificial Intelligence
+Connect With Me
+- GitHub: https://github.com/kashafss14)  
+- Instagram: @kashafss14 
+- Email: kashafss14@gmail.com
